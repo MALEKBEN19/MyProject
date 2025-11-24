@@ -1,0 +1,4 @@
+task.txt
+*.exe
+!app.exe
+TheNewFd/
