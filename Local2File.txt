@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 heellllllllo , bonjour!
-=======
 heellllllllo,this is an edit
->>>>>>> test1
+
